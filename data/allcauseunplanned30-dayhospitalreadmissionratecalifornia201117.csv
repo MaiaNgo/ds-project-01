@@ -1,0 +1,526 @@
+Year,Strata,Strata Name,County,Total Admits (ICD-9),30-day Readmits (ICD-9) ,30-day Readmission Rate (ICD-9),Total Admits (ICD-10),30-day Readmits (ICD-10) ,30-day Readmission Rate (ICD-10)
+2011,Overall,Overall,State,1948641,272268,14%,,,
+2011,Age,18 to 44 years,State,326070,36855,11.30%,,,
+2011,Age,45 to 64 years,State,659801,90891,13.80%,,,
+2011,Age,65 years and above,State,962771,144522,15%,,,
+2011,Sex,Male,State,901776,132417,14.70%,,,
+2011,Sex,Female,State,1046865,139851,13.40%,,,
+2011,Race-Ethnicity,White,State,1127791,150492,13.30%,,,
+2011,Race-Ethnicity,Hispanic,State,416845,58534,14%,,,
+2011,Race-Ethnicity,African-American,State,190344,34566,18.20%,,,
+2011,Race-Ethnicity,Asian/Pacific Islander,State,147502,20294,13.80%,,,
+2011,Race-Ethnicity,Native American,State,5389,714,13.20%,,,
+2011,Race-Ethnicity,Other/Unknown,State,60771,7668,12.60%,,,
+2011,Expected Payer,MediCare,State,1020088,162185,15.90%,,,
+2011,Expected Payer,Medi-Cal,State,252872,44936,17.80%,,,
+2011,Expected Payer,Private,State,494787,48258,9.80%,,,
+2011,Expected Payer,Self-Pay,State,75026,6563,8.70%,,,
+2011,Expected Payer,Other,State,105869,10326,9.80%,,,
+2011,Overall,Overall,Alameda,75103,11377,15.10%,,,
+2011,Overall,Overall,Alpine,13,1,7.70%,,,
+2011,Overall,Overall,Amador,2657,345,13%,,,
+2011,Overall,Overall,Butte,20422,3198,15.70%,,,
+2011,Overall,Overall,Calaveras,3253,392,12.10%,,,
+2011,Overall,Overall,Colusa,1113,132,11.90%,,,
+2011,Overall,Overall,Contra Costa,55458,7580,13.70%,,,
+2011,Overall,Overall,Del Norte,1455,206,14.20%,,,
+2011,Overall,Overall,El Dorado,9890,1305,13.20%,,,
+2011,Overall,Overall,Fresno,49558,6865,13.90%,,,
+2011,Overall,Overall,Glenn,1745,209,12%,,,
+2011,Overall,Overall,Humboldt,7053,686,9.70%,,,
+2011,Overall,Overall,Imperial,9140,1194,13.10%,,,
+2011,Overall,Overall,Inyo,794,57,7.20%,,,
+2011,Overall,Overall,Kern,46535,6514,14%,,,
+2011,Overall,Overall,Kings,7388,1011,13.70%,,,
+2011,Overall,Overall,Lake,5843,893,15.30%,,,
+2011,Overall,Overall,Lassen,1151,108,9.40%,,,
+2011,Overall,Overall,Los Angeles,534319,83066,15.50%,,,
+2011,Overall,Overall,Madera,7137,888,12.40%,,,
+2011,Overall,Overall,Marin,12210,1414,11.60%,,,
+2011,Overall,Overall,Mariposa,1160,144,12.40%,,,
+2011,Overall,Overall,Mendocino,5360,653,12.20%,,,
+2011,Overall,Overall,Merced,12482,1754,14.10%,,,
+2011,Overall,Overall,Modoc,405,38,9.40%,,,
+2011,Overall,Overall,Mono,245,17,6.90%,,,
+2011,Overall,Overall,Monterey,18178,1973,10.90%,,,
+2011,Overall,Overall,Napa,8444,1251,14.80%,,,
+2011,Overall,Overall,Nevada,6098,782,12.80%,,,
+2011,Overall,Overall,Orange,137953,18428,13.40%,,,
+2011,Overall,Overall,Placer,18464,2258,12.20%,,,
+2011,Overall,Overall,Plumas,1098,151,13.80%,,,
+2011,Overall,Overall,Riverside,110802,14936,13.50%,,,
+2011,Overall,Overall,Sacramento,76052,10610,14%,,,
+2011,Overall,Overall,San Benito,2806,375,13.40%,,,
+2011,Overall,Overall,San Bernardino,105064,14941,14.20%,,,
+2011,Overall,Overall,San Diego,157874,21258,13.50%,,,
+2011,Overall,Overall,San Francisco,39616,5620,14.20%,,,
+2011,Overall,Overall,San Joaquin,35737,4914,13.80%,,,
+2011,Overall,Overall,San Luis Obispo,14239,1603,11.30%,,,
+2011,Overall,Overall,San Mateo,29726,3701,12.50%,,,
+2011,Overall,Overall,Santa Barbara,18297,1963,10.70%,,,
+2011,Overall,Overall,Santa Clara,68595,9076,13.20%,,,
+2011,Overall,Overall,Santa Cruz,11076,1222,11%,,,
+2011,Overall,Overall,Shasta,15075,1739,11.50%,,,
+2011,Overall,Overall,Sierra,182,26,14.30%,,,
+2011,Overall,Overall,Siskiyou,2376,201,8.50%,,,
+2011,Overall,Overall,Solano,20548,2850,13.90%,,,
+2011,Overall,Overall,Sonoma,23404,2757,11.80%,,,
+2011,Overall,Overall,Stanislaus,30837,4278,13.90%,,,
+2011,Overall,Overall,Sutter,5851,720,12.30%,,,
+2011,Overall,Overall,Tehama,3509,421,12%,,,
+2011,Overall,Overall,Trinity,1038,154,14.80%,,,
+2011,Overall,Overall,Tulare,23641,3258,13.80%,,,
+2011,Overall,Overall,Tuolumne,4131,521,12.60%,,,
+2011,Overall,Overall,Ventura,42145,5195,12.30%,,,
+2011,Overall,Overall,Yolo,7620,904,11.90%,,,
+2011,Overall,Overall,Yuba,4902,724,14.80%,,,
+2012,Overall,Overall,State,1905961,263431,13.80%,,,
+2012,Age,18 to 44 years,State,318458,36818,11.60%,,,
+2012,Age,45 to 64 years,State,645384,89020,13.80%,,,
+2012,Age,65 years and above,State,942119,137593,14.60%,,,
+2012,Sex,Male,State,892006,129377,14.50%,,,
+2012,Sex,Female,State,1013955,134054,13.20%,,,
+2012,Race-Ethnicity,White,State,1086174,143344,13.20%,,,
+2012,Race-Ethnicity,Hispanic,State,426051,59594,14%,,,
+2012,Race-Ethnicity,African-American,State,184109,32604,17.70%,,,
+2012,Race-Ethnicity,Asian/Pacific Islander,State,144598,19494,13.50%,,,
+2012,Race-Ethnicity,Native American,State,5727,818,14.30%,,,
+2012,Race-Ethnicity,Other/Unknown,State,59302,7577,12.80%,,,
+2012,Expected Payer,MediCare,State,1001655,155200,15.50%,,,
+2012,Expected Payer,Medi-Cal,State,250143,44870,17.90%,,,
+2012,Expected Payer,Private,State,466366,45431,9.70%,,,
+2012,Expected Payer,Self-Pay,State,71327,5842,8.20%,,,
+2012,Expected Payer,Other,State,116470,12088,10.40%,,,
+2012,Overall,Overall,Alameda,72083,10448,14.50%,,,
+2012,Overall,Overall,Alpine,10,0,0%,,,
+2012,Overall,Overall,Amador,2775,411,14.80%,,,
+2012,Overall,Overall,Butte,20895,3279,15.70%,,,
+2012,Overall,Overall,Calaveras,3218,432,13.40%,,,
+2012,Overall,Overall,Colusa,1125,179,15.90%,,,
+2012,Overall,Overall,Contra Costa,55974,7733,13.80%,,,
+2012,Overall,Overall,Del Norte,1411,168,11.90%,,,
+2012,Overall,Overall,El Dorado,9993,1350,13.50%,,,
+2012,Overall,Overall,Fresno,48216,6769,14%,,,
+2012,Overall,Overall,Glenn,1772,245,13.80%,,,
+2012,Overall,Overall,Humboldt,7180,743,10.30%,,,
+2012,Overall,Overall,Imperial,8957,1339,14.90%,,,
+2012,Overall,Overall,Inyo,787,61,7.80%,,,
+2012,Overall,Overall,Kern,43650,5926,13.60%,,,
+2012,Overall,Overall,Kings,6903,911,13.20%,,,
+2012,Overall,Overall,Lake,5559,800,14.40%,,,
+2012,Overall,Overall,Lassen,1081,138,12.80%,,,
+2012,Overall,Overall,Los Angeles,517164,79235,15.30%,,,
+2012,Overall,Overall,Madera,6823,806,11.80%,,,
+2012,Overall,Overall,Marin,11917,1354,11.40%,,,
+2012,Overall,Overall,Mariposa,1097,111,10.10%,,,
+2012,Overall,Overall,Mendocino,5333,648,12.20%,,,
+2012,Overall,Overall,Merced,11481,1635,14.20%,,,
+2012,Overall,Overall,Modoc,413,46,11.10%,,,
+2012,Overall,Overall,Mono,248,23,9.30%,,,
+2012,Overall,Overall,Monterey,17916,1916,10.70%,,,
+2012,Overall,Overall,Napa,8202,1153,14.10%,,,
+2012,Overall,Overall,Nevada,5879,717,12.20%,,,
+2012,Overall,Overall,Orange,137256,18165,13.20%,,,
+2012,Overall,Overall,Placer,18788,2238,11.90%,,,
+2012,Overall,Overall,Plumas,870,100,11.50%,,,
+2012,Overall,Overall,Riverside,110558,14965,13.50%,,,
+2012,Overall,Overall,Sacramento,74683,10124,13.60%,,,
+2012,Overall,Overall,San Benito,2595,314,12.10%,,,
+2012,Overall,Overall,San Bernardino,104267,14826,14.20%,,,
+2012,Overall,Overall,San Diego,154878,20519,13.20%,,,
+2012,Overall,Overall,San Francisco,39423,5738,14.60%,,,
+2012,Overall,Overall,San Joaquin,34783,4833,13.90%,,,
+2012,Overall,Overall,San Luis Obispo,13129,1416,10.80%,,,
+2012,Overall,Overall,San Mateo,29701,3652,12.30%,,,
+2012,Overall,Overall,Santa Barbara,18375,1956,10.60%,,,
+2012,Overall,Overall,Santa Clara,67166,8898,13.20%,,,
+2012,Overall,Overall,Santa Cruz,11000,1236,11.20%,,,
+2012,Overall,Overall,Shasta,13926,1615,11.60%,,,
+2012,Overall,Overall,Sierra,127,18,14.20%,,,
+2012,Overall,Overall,Siskiyou,2351,189,8%,,,
+2012,Overall,Overall,Solano,20450,2812,13.80%,,,
+2012,Overall,Overall,Sonoma,22853,2637,11.50%,,,
+2012,Overall,Overall,Stanislaus,30191,4083,13.50%,,,
+2012,Overall,Overall,Sutter,6078,766,12.60%,,,
+2012,Overall,Overall,Tehama,3494,458,13.10%,,,
+2012,Overall,Overall,Trinity,945,124,13.10%,,,
+2012,Overall,Overall,Tulare,22013,2974,13.50%,,,
+2012,Overall,Overall,Tuolumne,4012,503,12.50%,,,
+2012,Overall,Overall,Ventura,40670,4831,11.90%,,,
+2012,Overall,Overall,Yolo,7462,945,12.70%,,,
+2012,Overall,Overall,Yuba,4898,685,14%,,,
+2013,Overall,Overall,State,1861345,253497,13.60%,,,
+2013,Age,18 to 44 years,State,301875,35056,11.60%,,,
+2013,Age,45 to 64 years,State,624032,85059,13.60%,,,
+2013,Age,65 years and above,State,935438,133382,14.30%,,,
+2013,Sex,Male,State,880727,126320,14.30%,,,
+2013,Sex,Female,State,980618,127177,13%,,,
+2013,Race-Ethnicity,White,State,1055454,137269,13%,,,
+2013,Race-Ethnicity,Hispanic,State,419755,57734,13.80%,,,
+2013,Race-Ethnicity,African-American,State,176708,30804,17.40%,,,
+2013,Race-Ethnicity,Asian/Pacific Islander,State,145024,19589,13.50%,,,
+2013,Race-Ethnicity,Native American,State,5745,803,14%,,,
+2013,Race-Ethnicity,Other/Unknown,State,58659,7298,12.40%,,,
+2013,Expected Payer,MediCare,State,996331,150578,15.10%,,,
+2013,Expected Payer,Medi-Cal,State,248917,43643,17.50%,,,
+2013,Expected Payer,Private,State,432777,41667,9.60%,,,
+2013,Expected Payer,Self-Pay,State,64227,5148,8%,,,
+2013,Expected Payer,Other,State,119093,12461,10.50%,,,
+2013,Overall,Overall,Alameda,67673,9761,14.40%,,,
+2013,Overall,Overall,Alpine,9,0,0%,,,
+2013,Overall,Overall,Amador,2616,357,13.60%,,,
+2013,Overall,Overall,Butte,21019,3383,16.10%,,,
+2013,Overall,Overall,Calaveras,3160,418,13.20%,,,
+2013,Overall,Overall,Colusa,1054,128,12.10%,,,
+2013,Overall,Overall,Contra Costa,54166,7369,13.60%,,,
+2013,Overall,Overall,Del Norte,1424,193,13.60%,,,
+2013,Overall,Overall,El Dorado,9982,1288,12.90%,,,
+2013,Overall,Overall,Fresno,48385,6770,14%,,,
+2013,Overall,Overall,Glenn,1695,238,14%,,,
+2013,Overall,Overall,Humboldt,7185,754,10.50%,,,
+2013,Overall,Overall,Imperial,8325,1189,14.30%,,,
+2013,Overall,Overall,Inyo,722,34,4.70%,,,
+2013,Overall,Overall,Kern,41048,5473,13.30%,,,
+2013,Overall,Overall,Kings,6558,922,14.10%,,,
+2013,Overall,Overall,Lake,5456,802,14.70%,,,
+2013,Overall,Overall,Lassen,988,91,9.20%,,,
+2013,Overall,Overall,Los Angeles,495144,73527,14.80%,,,
+2013,Overall,Overall,Madera,6855,874,12.70%,,,
+2013,Overall,Overall,Marin,11477,1220,10.60%,,,
+2013,Overall,Overall,Mariposa,1016,106,10.40%,,,
+2013,Overall,Overall,Mendocino,5355,612,11.40%,,,
+2013,Overall,Overall,Merced,11581,1614,13.90%,,,
+2013,Overall,Overall,Modoc,365,41,11.20%,,,
+2013,Overall,Overall,Mono,249,15,6%,,,
+2013,Overall,Overall,Monterey,17588,2002,11.40%,,,
+2013,Overall,Overall,Napa,7829,1068,13.60%,,,
+2013,Overall,Overall,Nevada,5831,774,13.30%,,,
+2013,Overall,Overall,Orange,133419,17189,12.90%,,,
+2013,Overall,Overall,Placer,18470,2139,11.60%,,,
+2013,Overall,Overall,Plumas,828,92,11.10%,,,
+2013,Overall,Overall,Riverside,110940,14914,13.40%,,,
+2013,Overall,Overall,Sacramento,77051,10602,13.80%,,,
+2013,Overall,Overall,San Benito,2616,335,12.80%,,,
+2013,Overall,Overall,San Bernardino,104088,14890,14.30%,,,
+2013,Overall,Overall,San Diego,152109,19775,13%,,,
+2013,Overall,Overall,San Francisco,38608,5708,14.80%,,,
+2013,Overall,Overall,San Joaquin,34379,4705,13.70%,,,
+2013,Overall,Overall,San Luis Obispo,12778,1335,10.40%,,,
+2013,Overall,Overall,San Mateo,29190,3583,12.30%,,,
+2013,Overall,Overall,Santa Barbara,18594,1995,10.70%,,,
+2013,Overall,Overall,Santa Clara,67810,8985,13.30%,,,
+2013,Overall,Overall,Santa Cruz,10453,1058,10.10%,,,
+2013,Overall,Overall,Shasta,13737,1449,10.50%,,,
+2013,Overall,Overall,Sierra,94,9,9.60%,,,
+2013,Overall,Overall,Siskiyou,2459,249,10.10%,,,
+2013,Overall,Overall,Solano,20395,2736,13.40%,,,
+2013,Overall,Overall,Sonoma,22136,2515,11.40%,,,
+2013,Overall,Overall,Stanislaus,29926,4109,13.70%,,,
+2013,Overall,Overall,Sutter,6109,802,13.10%,,,
+2013,Overall,Overall,Tehama,3460,445,12.90%,,,
+2013,Overall,Overall,Trinity,931,125,13.40%,,,
+2013,Overall,Overall,Tulare,20826,2686,12.90%,,,
+2013,Overall,Overall,Tuolumne,4050,530,13.10%,,,
+2013,Overall,Overall,Ventura,38847,4814,12.40%,,,
+2013,Overall,Overall,Yolo,7225,904,12.50%,,,
+2013,Overall,Overall,Yuba,4804,683,14.20%,,,
+2014,Overall,Overall,State,1831817,248714,13.60%,,,
+2014,Age,18 to 44 years,State,297297,34881,11.70%,,,
+2014,Age,45 to 64 years,State,623743,84969,13.60%,,,
+2014,Age,65 years and above,State,910777,128864,14.10%,,,
+2014,Sex,Male,State,872476,124726,14.30%,,,
+2014,Sex,Female,State,959341,123988,12.90%,,,
+2014,Race-Ethnicity,White,State,1025747,133419,13%,,,
+2014,Race-Ethnicity,Hispanic,State,416091,56201,13.50%,,,
+2014,Race-Ethnicity,African-American,State,177701,31259,17.60%,,,
+2014,Race-Ethnicity,Asian/Pacific Islander,State,144113,19175,13.30%,,,
+2014,Race-Ethnicity,Native American,State,5741,791,13.80%,,,
+2014,Race-Ethnicity,Other/Unknown,State,62424,7869,12.60%,,,
+2014,Expected Payer,MediCare,State,970341,145784,15%,,,
+2014,Expected Payer,Medi-Cal,State,364154,56168,15.40%,,,
+2014,Expected Payer,Private,State,415763,39775,9.60%,,,
+2014,Expected Payer,Self-Pay,State,31122,2131,6.80%,,,
+2014,Expected Payer,Other,State,50437,4856,9.60%,,,
+2014,Overall,Overall,Alameda,65219,9398,14.40%,,,
+2014,Overall,Overall,Alpine,11,0,0%,,,
+2014,Overall,Overall,Amador,2599,319,12.30%,,,
+2014,Overall,Overall,Butte,21081,3558,16.90%,,,
+2014,Overall,Overall,Calaveras,2901,387,13.30%,,,
+2014,Overall,Overall,Colusa,1039,144,13.90%,,,
+2014,Overall,Overall,Contra Costa,52940,7257,13.70%,,,
+2014,Overall,Overall,Del Norte,1352,162,12%,,,
+2014,Overall,Overall,El Dorado,9331,1102,11.80%,,,
+2014,Overall,Overall,Fresno,46943,6283,13.40%,,,
+2014,Overall,Overall,Glenn,1898,272,14.30%,,,
+2014,Overall,Overall,Humboldt,7543,821,10.90%,,,
+2014,Overall,Overall,Imperial,7519,1046,13.90%,,,
+2014,Overall,Overall,Inyo,834,64,7.70%,,,
+2014,Overall,Overall,Kern,40730,5474,13.40%,,,
+2014,Overall,Overall,Kings,6126,761,12.40%,,,
+2014,Overall,Overall,Lake,5053,771,15.30%,,,
+2014,Overall,Overall,Lassen,1028,129,12.50%,,,
+2014,Overall,Overall,Los Angeles,489218,72658,14.90%,,,
+2014,Overall,Overall,Madera,6780,835,12.30%,,,
+2014,Overall,Overall,Marin,10679,1167,10.90%,,,
+2014,Overall,Overall,Mariposa,1089,147,13.50%,,,
+2014,Overall,Overall,Mendocino,5164,590,11.40%,,,
+2014,Overall,Overall,Merced,11433,1530,13.40%,,,
+2014,Overall,Overall,Modoc,322,25,7.80%,,,
+2014,Overall,Overall,Mono,270,33,12.20%,,,
+2014,Overall,Overall,Monterey,16384,1666,10.20%,,,
+2014,Overall,Overall,Napa,7288,932,12.80%,,,
+2014,Overall,Overall,Nevada,5736,711,12.40%,,,
+2014,Overall,Overall,Orange,130679,16685,12.80%,,,
+2014,Overall,Overall,Placer,17446,1973,11.30%,,,
+2014,Overall,Overall,Plumas,854,120,14.10%,,,
+2014,Overall,Overall,Riverside,111062,14744,13.30%,,,
+2014,Overall,Overall,Sacramento,78028,10662,13.70%,,,
+2014,Overall,Overall,San Benito,2594,325,12.50%,,,
+2014,Overall,Overall,San Bernardino,101796,14251,14%,,,
+2014,Overall,Overall,San Diego,150420,19696,13.10%,,,
+2014,Overall,Overall,San Francisco,37820,5785,15.30%,,,
+2014,Overall,Overall,San Joaquin,36070,4990,13.80%,,,
+2014,Overall,Overall,San Luis Obispo,12268,1316,10.70%,,,
+2014,Overall,Overall,San Mateo,27209,3434,12.60%,,,
+2014,Overall,Overall,Santa Barbara,18621,1965,10.60%,,,
+2014,Overall,Overall,Santa Clara,65778,8641,13.10%,,,
+2014,Overall,Overall,Santa Cruz,10498,1078,10.30%,,,
+2014,Overall,Overall,Shasta,13566,1462,10.80%,,,
+2014,Overall,Overall,Sierra,127,10,7.90%,,,
+2014,Overall,Overall,Siskiyou,2143,203,9.50%,,,
+2014,Overall,Overall,Solano,19610,2685,13.70%,,,
+2014,Overall,Overall,Sonoma,21862,2540,11.60%,,,
+2014,Overall,Overall,Stanislaus,30096,4036,13.40%,,,
+2014,Overall,Overall,Sutter,5555,724,13%,,,
+2014,Overall,Overall,Tehama,3368,420,12.50%,,,
+2014,Overall,Overall,Trinity,889,122,13.70%,,,
+2014,Overall,Overall,Tulare,20841,2622,12.60%,,,
+2014,Overall,Overall,Tuolumne,3973,505,12.70%,,,
+2014,Overall,Overall,Ventura,38377,4630,12.10%,,,
+2014,Overall,Overall,Yolo,7365,829,11.30%,,,
+2014,Overall,Overall,Yuba,4585,707,15.40%,,,
+2015,Overall,Overall,State,1405652,190134,13.53%,,,
+2015,Age,18 to 44 years,State,224205,26273,11.72%,,,
+2015,Age,45 to 64 years,State,471180,64617,13.71%,,,
+2015,Age,65 years and above,State,710267,99244,13.97%,,,
+2015,Sex,Male,State,673048,95720,14.22%,,,
+2015,Sex,Female,State,732603,94414,12.89%,,,
+2015,Race-Ethnicity,White,State,775900,100644,12.97%,,,
+2015,Race-Ethnicity,Hispanic,State,322838,43565,13.49%,,,
+2015,Race-Ethnicity,African-American,State,136249,23774,17.45%,,,
+2015,Race-Ethnicity,Asian/Pacific Islander,State,114847,14968,13.03%,,,
+2015,Race-Ethnicity,Native American,State,4349,571,13.13%,,,
+2015,Race-Ethnicity,Other/Unknown,State,51469,6612,12.85%,,,
+2015,Expected Payer,MediCare,State,754450,112694,14.94%,,,
+2015,Expected Payer,Medi-Cal,State,289672,43044,14.86%,,,
+2015,Expected Payer,Private,State,309116,29820,9.65%,,,
+2015,Expected Payer,Self-Pay,State,16879,1372,8.13%,,,
+2015,Expected Payer,Other,State,35535,3204,9.02%,,,
+2015,Overall,Overall,Alameda,49269,6917,14.04%,,,
+2015,Overall,Overall,Alpine,9,0,0.00%,,,
+2015,Overall,Overall,Amador,2124,282,13.28%,,,
+2015,Overall,Overall,Butte,16661,2907,17.45%,,,
+2015,Overall,Overall,Calaveras,2174,269,12.37%,,,
+2015,Overall,Overall,Colusa,757,83,10.96%,,,
+2015,Overall,Overall,Contra Costa,41392,5752,13.90%,,,
+2015,Overall,Overall,Del Norte,889,94,10.57%,,,
+2015,Overall,Overall,El Dorado,7038,809,11.49%,,,
+2015,Overall,Overall,Fresno,36503,5072,13.89%,,,
+2015,Overall,Overall,Glenn,1401,162,11.56%,,,
+2015,Overall,Overall,Humboldt,5666,568,10.02%,,,
+2015,Overall,Overall,Imperial,5769,779,13.50%,,,
+2015,Overall,Overall,Inyo,637,60,9.42%,,,
+2015,Overall,Overall,Kern,30391,3770,12.40%,,,
+2015,Overall,Overall,Kings,4683,606,12.94%,,,
+2015,Overall,Overall,Lake,3891,520,13.36%,,,
+2015,Overall,Overall,Lassen,751,78,10.39%,,,
+2015,Overall,Overall,Los Angeles,374849,55914,14.92%,,,
+2015,Overall,Overall,Madera,5174,656,12.68%,,,
+2015,Overall,Overall,Marin,8072,878,10.88%,,,
+2015,Overall,Overall,Mariposa,854,113,13.23%,,,
+2015,Overall,Overall,Mendocino,3816,460,12.05%,,,
+2015,Overall,Overall,Merced,9474,1274,13.45%,,,
+2015,Overall,Overall,Modoc,265,24,9.06%,,,
+2015,Overall,Overall,Mono,193,11,5.70%,,,
+2015,Overall,Overall,Monterey,12919,1353,10.47%,,,
+2015,Overall,Overall,Napa,5362,697,13.00%,,,
+2015,Overall,Overall,Nevada,4384,570,13.00%,,,
+2015,Overall,Overall,Orange,100168,12602,12.58%,,,
+2015,Overall,Overall,Placer,12961,1452,11.20%,,,
+2015,Overall,Overall,Plumas,694,67,9.65%,,,
+2015,Overall,Overall,Riverside,86333,11733,13.59%,,,
+2015,Overall,Overall,Sacramento,59197,8068,13.63%,,,
+2015,Overall,Overall,San Benito,1935,231,11.94%,,,
+2015,Overall,Overall,San Bernardino,75949,10305,13.57%,,,
+2015,Overall,Overall,San Diego,115410,15086,13.07%,,,
+2015,Overall,Overall,San Francisco,28548,3963,13.88%,,,
+2015,Overall,Overall,San Joaquin,26778,3453,12.89%,,,
+2015,Overall,Overall,San Luis Obispo,9677,1020,10.54%,,,
+2015,Overall,Overall,San Mateo,21159,2730,12.90%,,,
+2015,Overall,Overall,Santa Barbara,14130,1574,11.14%,,,
+2015,Overall,Overall,Santa Clara,51175,6733,13.16%,,,
+2015,Overall,Overall,Santa Cruz,8197,885,10.80%,,,
+2015,Overall,Overall,Shasta,10130,1031,10.18%,,,
+2015,Overall,Overall,Sierra,85,5,5.88%,,,
+2015,Overall,Overall,Siskiyou,1724,168,9.74%,,,
+2015,Overall,Overall,Solano,14646,1964,13.41%,,,
+2015,Overall,Overall,Sonoma,17382,2014,11.59%,,,
+2015,Overall,Overall,Stanislaus,23119,3075,13.30%,,,
+2015,Overall,Overall,Sutter,4325,544,12.58%,,,
+2015,Overall,Overall,Tehama,2602,325,12.49%,,,
+2015,Overall,Overall,Trinity,709,100,14.10%,,,
+2015,Overall,Overall,Tulare,16424,2243,13.66%,,,
+2015,Overall,Overall,Tuolumne,3144,410,13.04%,,,
+2015,Overall,Overall,Ventura,30175,3862,12.80%,,,
+2015,Overall,Overall,Yolo,5852,726,12.41%,,,
+2015,Overall,Overall,Yuba,3521,527,14.97%,,,
+2016,Overall,Overall,State,,,,"1,877,198","271,871",14.48%
+2016,Age,18 to 44 years,State,,,,293632,35595,12.12%
+2016,Age,45 to 64 years,State,,,,626524,92315,14.73%
+2016,Age,65 years and above,State,,,,957042,143961,15.04%
+2016,Sex,Male,State,,,,910008,139661,15.35%
+2016,Sex,Female,State,,,,967172,132208,13.67%
+2016,Race-Ethnicity,White,State,,,,1032282,143721,13.92%
+2016,Race-Ethnicity,Hispanic,State,,,,432751,62673,14.48%
+2016,Race-Ethnicity,African-American,State,,,,180302,32780,18.18%
+2016,Race-Ethnicity,Asian/Pacific Islander,State,,,,154342,21573,13.98%
+2016,Race-Ethnicity,Native American,State,,,,6156,1082,17.58%
+2016,Race-Ethnicity,Other/Unknown,State,,,,71365,10042,14.07%
+2016,Expected Payer,MediCare,State,,,,1016129,162152,15.96%
+2016,Expected Payer,Medi-Cal,State,,,,395694,61921,15.65%
+2016,Expected Payer,Private,State,,,,401717,41734,10.39%
+2016,Expected Payer,Self-Pay,State,,,,20467,1698,8.30%
+2016,Expected Payer,Other,State,,,,43191,4366,10.11%
+2016,Overall,Overall,Alameda,,,,65203,9759,14.97%
+2016,Overall,Overall,Alpine,,,,21,1,4.76%
+2016,Overall,Overall,Amador,,,,2814,390,13.86%
+2016,Overall,Overall,Butte,,,,22675,4041,17.82%
+2016,Overall,Overall,Calaveras,,,,2868,400,13.95%
+2016,Overall,Overall,Colusa,,,,971,121,12.46%
+2016,Overall,Overall,Contra Costa,,,,52750,7662,14.53%
+2016,Overall,Overall,Del Norte,,,,1238,125,10.10%
+2016,Overall,Overall,El Dorado,,,,10298,1418,13.77%
+2016,Overall,Overall,Fresno,,,,50589,8296,16.40%
+2016,Overall,Overall,Glenn,,,,1935,281,14.52%
+2016,Overall,Overall,Humboldt,,,,7804,937,12.01%
+2016,Overall,Overall,Imperial,,,,7981,1198,15.01%
+2016,Overall,Overall,Inyo,,,,757,77,10.17%
+2016,Overall,Overall,Kern,,,,41749,5561,13.32%
+2016,Overall,Overall,Kings,,,,6718,1030,15.33%
+2016,Overall,Overall,Lake,,,,5375,845,15.72%
+2016,Overall,Overall,Lassen,,,,856,96,11.21%
+2016,Overall,Overall,Los Angeles,,,,493868,77874,15.77%
+2016,Overall,Overall,Madera,,,,6997,1059,15.14%
+2016,Overall,Overall,Marin,,,,11232,1321,11.76%
+2016,Overall,Overall,Mariposa,,,,1117,154,13.79%
+2016,Overall,Overall,Mendocino,,,,5158,666,12.91%
+2016,Overall,Overall,Merced,,,,13467,2087,15.50%
+2016,Overall,Overall,Modoc,,,,314,29,9.24%
+2016,Overall,Overall,Mono,,,,308,31,10.06%
+2016,Overall,Overall,Monterey,,,,17789,2066,11.61%
+2016,Overall,Overall,Napa,,,,7363,1002,13.61%
+2016,Overall,Overall,Nevada,,,,5671,807,14.23%
+2016,Overall,Overall,Orange,,,,133527,17983,13.47%
+2016,Overall,Overall,Placer,,,,18698,2180,11.66%
+2016,Overall,Overall,Plumas,,,,907,107,11.80%
+2016,Overall,Overall,Riverside,,,,113451,16431,14.48%
+2016,Overall,Overall,Sacramento,,,,77797,11095,14.26%
+2016,Overall,Overall,San Benito,,,,2505,306,12.22%
+2016,Overall,Overall,San Bernardino,,,,104398,15630,14.97%
+2016,Overall,Overall,San Diego,,,,151703,20891,13.77%
+2016,Overall,Overall,San Francisco,,,,37697,5583,14.81%
+2016,Overall,Overall,San Joaquin,,,,36298,5369,14.79%
+2016,Overall,Overall,San Luis Obispo,,,,12941,1502,11.61%
+2016,Overall,Overall,San Mateo,,,,27003,3461,12.82%
+2016,Overall,Overall,Santa Barbara,,,,19086,2236,11.72%
+2016,Overall,Overall,Santa Clara,,,,68322,9691,14.18%
+2016,Overall,Overall,Santa Cruz,,,,10584,1171,11.06%
+2016,Overall,Overall,Shasta,,,,14114,1675,11.87%
+2016,Overall,Overall,Sierra,,,,132,15,11.36%
+2016,Overall,Overall,Siskiyou,,,,2269,233,10.27%
+2016,Overall,Overall,Solano,,,,21124,3069,14.53%
+2016,Overall,Overall,Sonoma,,,,23675,2898,12.24%
+2016,Overall,Overall,Stanislaus,,,,30756,4167,13.55%
+2016,Overall,Overall,Sutter,,,,5796,816,14.08%
+2016,Overall,Overall,Tehama,,,,3645,482,13.22%
+2016,Overall,Overall,Trinity,,,,888,110,12.39%
+2016,Overall,Overall,Tulare,,,,21561,3136,14.54%
+2016,Overall,Overall,Tuolumne,,,,3887,582,14.97%
+2016,Overall,Overall,Ventura,,,,40230,5489,13.64%
+2016,Overall,Overall,Yolo,,,,8078,1083,13.41%
+2016,Overall,Overall,Yuba,,,,4758,731,15.36%
+2017,Overall,Overall,Alameda,,,,64950,9676,14.90%
+2017,Overall,Overall,Alpine,,,,9,,
+2017,Overall,Overall,Amador,,,,2970,405,13.64%
+2017,Overall,Overall,Butte,,,,23283,4406,18.92%
+2017,Overall,Overall,Calaveras,,,,2997,399,13.31%
+2017,Overall,Overall,Colusa,,,,988,124,12.55%
+2017,Overall,Overall,Contra Costa,,,,53095,8016,15.10%
+2017,Overall,Overall,Del Norte,,,,1390,161,11.58%
+2017,Overall,Overall,El Dorado,,,,10457,1457,13.93%
+2017,Overall,Overall,Fresno,,,,49058,7239,14.76%
+2017,Overall,Overall,Glenn,,,,1957,290,14.82%
+2017,Overall,Overall,Humboldt,,,,7593,919,12.10%
+2017,Overall,Overall,Imperial,,,,8276,1240,14.98%
+2017,Overall,Overall,Inyo,,,,838,79,9.43%
+2017,Overall,Overall,Kern,,,,41270,5728,13.88%
+2017,Overall,Overall,Kings,,,,6417,945,14.73%
+2017,Overall,Overall,Lake,,,,5354,853,15.93%
+2017,Overall,Overall,Lassen,,,,831,69,8.30%
+2017,Overall,Overall,Los Angeles,,,,481784,75361,15.64%
+2017,Overall,Overall,Madera,,,,6784,931,13.72%
+2017,Overall,Overall,Marin,,,,11379,1412,12.41%
+2017,Overall,Overall,Mariposa,,,,1184,167,14.10%
+2017,Overall,Overall,Mendocino,,,,5348,681,12.73%
+2017,Overall,Overall,Merced,,,,14017,2182,15.57%
+2017,Overall,Overall,Modoc,,,,349,42,12.03%
+2017,Overall,Overall,Mono,,,,280,22,7.86%
+2017,Overall,Overall,Monterey,,,,18362,2179,11.87%
+2017,Overall,Overall,Napa,,,,7243,1000,13.81%
+2017,Overall,Overall,Nevada,,,,5666,778,13.73%
+2017,Overall,Overall,Orange,,,,132179,17820,13.48%
+2017,Overall,Overall,Placer,,,,19073,2178,11.42%
+2017,Overall,Overall,Plumas,,,,840,97,11.55%
+2017,Overall,Overall,Riverside,,,,111614,16334,14.63%
+2017,Overall,Overall,Sacramento,,,,80190,12074,15.06%
+2017,Overall,Overall,San Benito,,,,2464,320,12.99%
+2017,Overall,Overall,San Bernardino,,,,104537,15991,15.30%
+2017,Overall,Overall,San Diego,,,,151905,20823,13.71%
+2017,Overall,Overall,San Francisco,,,,36376,5449,14.98%
+2017,Overall,Overall,San Joaquin,,,,37377,5636,15.08%
+2017,Overall,Overall,San Luis Obispo,,,,13019,1469,11.28%
+2017,Overall,Overall,San Mateo,,,,26998,3435,12.72%
+2017,Overall,Overall,Santa Barbara,,,,19072,2351,12.33%
+2017,Overall,Overall,Santa Clara,,,,70038,10082,14.40%
+2017,Overall,Overall,Santa Cruz,,,,10702,1323,12.36%
+2017,Overall,Overall,Shasta,,,,14022,1647,11.75%
+2017,Overall,Overall,Sierra,,,,96,7,7.29%
+2017,Overall,Overall,Siskiyou,,,,2122,193,9.10%
+2017,Overall,Overall,Solano,,,,20236,2951,14.58%
+2017,Overall,Overall,Sonoma,,,,23479,3024,12.88%
+2017,Overall,Overall,Stanislaus,,,,30327,4137,13.64%
+2017,Overall,Overall,Sutter,,,,5639,734,13.02%
+2017,Overall,Overall,Tehama,,,,3474,485,13.96%
+2017,Overall,Overall,Trinity,,,,869,115,13.23%
+2017,Overall,Overall,Tulare,,,,22274,3157,14.17%
+2017,Overall,Overall,Tuolumne,,,,3730,493,13.22%
+2017,Overall,Overall,Ventura,,,,39966,5535,13.85%
+2017,Overall,Overall,Yolo,,,,8171,1134,13.88%
+2017,Overall,Overall,Yuba,,,,4909,758,15.44%
+2017,Age,18 to 44 years,State,,,,285406,35961,12.60% 
+2017,Age,45 to 64 years,State,,,,611131,90987,14.89% 
+2017,Age,65 years and above,State,,,,986433,147972,15.00% 
+2017,Expected Payer,Medi-Cal,State,,,,391220,61700,15.77% 
+2017,Expected Payer,MediCare,State,,,,1037090,164931,15.90% 
+2017,Expected Payer,Other,State,,,,42158,4514,10.71% 
+2017,Expected Payer,Private,State,,,,392007,42024,10.72% 
+2017,Expected Payer,Self-Pay,State,,,,20495,1751,8.54% 
+2017,Overall,Overall,State,,,,1882970,274920,14.60% 
+2017,Race-Ethnicity,African-American,State,,,,177645,33032,18.59% 
+2017,Race-Ethnicity,Asian/Pacific Islander,State,,,,156473,22034,14.08% 
+2017,Race-Ethnicity,Hispanic,State,,,,442597,65083,14.70% 
+2017,Race-Ethnicity,Native American,State,,,,6269,1027,16.38% 
+2017,Race-Ethnicity,Other/Unknown,State,,,,78602,10982,13.97% 
+2017,Race-Ethnicity,White,State,,,,1021384,142762,13.98% 
+2017,Sex,Female,State,,,,964335,133017,13.79% 
+2017,Sex,Male,State,,,,918635,141903,15.45% 
