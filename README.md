@@ -1,5 +1,20 @@
 # ds-project-01
 Diabetic readmission
+
+Christiaan and Maia
+ds-project-01/maia/Presentation.key
+ds-project-01/maia/Non-technical notebook
+ds-project-01/maia/cleaning_data_and_visualization
+
+Thanks
+Christiaan
+Maia
+
+
+
+
+
+----------------------------------------
 # Mod 1 Project Instructions
 
 
